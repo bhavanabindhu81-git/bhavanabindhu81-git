@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Bhavana 👋
 
-<!--
-**bhavanabindhu81-git/bhavanabindhu81-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Senior Software Developer | Python Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+I build scalable backend systems, APIs, and modern applications using Python, FastAPI, Flask, and ReactJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+Python • JavaScript • SQL
+
+**Backend**
+FastAPI • Flask • Django • REST APIs • Microservices
+
+**Frontend**
+ReactJS • HTML5 • CSS3 • Bootstrap • jQuery
+
+**Cloud**
+AWS • Azure • GCP
+
+**DevOps**
+Docker • Kubernetes • Jenkins • GitHub Actions
+
+**Databases**
+PostgreSQL • MySQL • Oracle • Redis
+
+## Connect With Me
+
+🔗 LinkedIn  
+🔗 Portfolio  
+📧 Email
